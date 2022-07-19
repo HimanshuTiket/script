@@ -36,9 +36,3 @@ jobs:
           title: "chore: release packages"
         env:
           GITHUB_TOKEN: ${{ secrets.PUBLISHER_TOKEN }}
-
-      - name: Reset prerelease branch
-        if: steps.changesets.outputs.published == 'true'
-        uses: nicksnell/action-reset-repo@master
-        with:
-          reset_branch: prerelease
