@@ -1,5 +1,11 @@
 # @himanshutiket/customscript
 
+## 1.2.0
+
+### Minor Changes
+
+- 063c5d3: ni
+
 ## 1.1.2
 
 ### Patch Changes
