@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npm run build --ws",
-    "test": "npm run test --ws",
+    "build": "npm run build",
+    "test": "npm run test",
     "publish": "npm run build && changeset publish"
   },
   "keywords": [],
