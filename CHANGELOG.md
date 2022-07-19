@@ -1,5 +1,11 @@
 # @himanshutiket/customscript
 
+## 1.1.2
+
+### Patch Changes
+
+- 3fb0095: fds
+
 ## 1.1.1
 
 ### Patch Changes
